@@ -2,13 +2,6 @@
 
 
 
-## Group Members
-
-- Tanguy Lewko (tanguy.lewko@epfl.ch)
-- Chengkun Li (chengkun.li@epfl.ch)
-- Yifeng Chen (yifeng.chen@epfl.ch)
-- Aoyu Gong (aoyu.gong@epfl.ch)
-
 
 
 ## Introduction
